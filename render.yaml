@@ -1,6 +1,4 @@
-services:
-  - type: worker
-    name: ali-smart-candle-bot
-    runtime: python
-    buildCommand: pip install -r requirements.txt
-    startCommand: python bot.py
+
+python-telegram-bot
+yfinance
+pandas
